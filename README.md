@@ -38,14 +38,12 @@
 
 1. Choose template flavor
 - Links:
-  - [Latte](https://www.canva.com/design/DAGaG8Aau3U/LCuIEOCv5ZnBmyieUgEaKA/view?utm_content=DAGaG8Aau3U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd37b12354f)
-  - [Frappé](https://www.canva.com/design/DAGZFNmknKA/6kYtTedcq3iDLXlI4lga0w/view?utm_content=DAGZFNmknKA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h999f5327af)
-  - [Macchiato](https://www.canva.com/design/DAGXq-2f1Z0/hxwrzsG-yVawNI-anjntSQ/view?utm_content=DAGXq-2f1Z0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd9074d2081)
-  - [Mocha](https://www.canva.com/design/DAGXAzwtqd8/h-D_nqjstAadDrMgc4ZsCQ/view?utm_content=DAGXAzwtqd8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7507b32860)
+  - [Latte](https://www.canva.com/design/DAGgauER4zY/BkNhrQfSwFDzNQGfcChBmQ/view?utm_content=DAGgauER4zY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he713ead819)
+  - [Frappé](https://www.canva.com/design/DAGgak-UflQ/DPXDc5h7HWl3zBz_YWJs1g/view?utm_content=DAGgak-UflQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h35fae29d8f)
+  - [Macchiato](https://www.canva.com/design/DAGgat5JwdM/qdnYHPg2noYkHcHCKMPuXw/view?utm_content=DAGgat5JwdM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h664302c016)
+  - [Mocha](https://www.canva.com/design/DAGgaiSw3mI/I6wrUU1WIWUCnVBq5U5iEg/view?utm_content=DAGgaiSw3mI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfc8b1ead2c)
 2. Choose an accent by clicking it's name
 
-> [!NOTE]
-> There is a secret accent hidden somewhere 🤫
 
 ## 🙋 FAQ
 
